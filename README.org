@@ -1,0 +1,9 @@
+* cl-rdfxml
+
+Common Lisp RDF/XML parser
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/tayloj/cl-rdfxml.git |
+| commit  | 3364dda                                     |
+| systems | cl-rdfxml                                   |
+|---------+---------------------------------------------|
